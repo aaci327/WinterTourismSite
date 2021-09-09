@@ -1,0 +1,34 @@
+body {
+  font-family: 'Griffy', cursive;
+  background-color: #D5F3FE;
+  color:#000052;
+}
+
+#cencolm{
+  border-right: 5px dashed #12A9DC;
+  border-left: 5px dashed #12A9DC;
+}
+
+#top{
+  border-bottom: 3px dashed #12A9DC;
+
+}
+@fontface {
+  font-family: 'Griffy', cursive;
+  src: url(Griffy-Regular.ttf);
+  font-weight: bold;
+}
+
+#lastline {
+  border: 2px dashed #12A9DC;
+}
+
+#icepic{
+  border:3px solid #12A9DC;
+}
+#minigolf{
+  border:3px solid #12A9DC
+}
+#icecastles{
+  border:3px solid #12A9DC
+}
